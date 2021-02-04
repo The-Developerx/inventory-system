@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # inventory_system
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# inventory-system
+>>>>>>> 2f9978eaf1b3251dac2e9741d74c804e22462cc6
